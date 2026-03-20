@@ -17,4 +17,4 @@ Ci-dessous, vous pouvez voir une vidéo de démonstration de l’application en 
 la video se trouve ici: app/demo/fragment-video.mp4
 ##  Démo
 
-[](https://github.com/wissalmokdad222/LAB-7---Galerie-de-Stars-RecyclerView-Animations-et-Filtrage/raw/main/app/demo/fragment-video.mp4)
+[la vidéo](https://github.com/wissalmokdad222/LAB-7---Galerie-de-Stars-RecyclerView-Animations-et-Filtrage/raw/main/app/demo/fragment-video.mp4)
