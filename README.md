@@ -14,6 +14,8 @@ L’application a été développée dans le cadre du **LAB 7**.
 ##  Démo de l'application
 
 Ci-dessous, vous pouvez voir une vidéo de démonstration de l’application en action :
+##  Démo
 
-![](https://github.com/user-attachments/assets/30ef7fbf-ec1a-4e88-95aa-5758f8d3ee64)
-
+<video src="app/demo/fragment-video.mp4" controls width="600">
+    
+</video>
