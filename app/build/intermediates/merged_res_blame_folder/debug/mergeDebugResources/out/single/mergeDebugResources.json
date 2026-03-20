@@ -1,0 +1,34 @@
+[
+    {
+        "merged": "com.example.starsgallery.app-debug-34:/menu_menu.xml.flat",
+        "source": "com.example.starsgallery.app-main-36:/menu/menu.xml"
+    },
+    {
+        "merged": "com.example.starsgallery.app-debug-34:/layout_activity_list.xml.flat",
+        "source": "com.example.starsgallery.app-main-36:/layout/activity_list.xml"
+    },
+    {
+        "merged": "com.example.starsgallery.app-debug-34:/layout_activity_splash.xml.flat",
+        "source": "com.example.starsgallery.app-main-36:/layout/activity_splash.xml"
+    },
+    {
+        "merged": "com.example.starsgallery.app-debug-34:/mipmap_star.xml.flat",
+        "source": "com.example.starsgallery.app-main-36:/mipmap/star.xml"
+    },
+    {
+        "merged": "com.example.starsgallery.app-debug-34:/layout_star_edit_item.xml.flat",
+        "source": "com.example.starsgallery.app-main-36:/layout/star_edit_item.xml"
+    },
+    {
+        "merged": "com.example.starsgallery.app-debug-34:/mipmap_loupe.xml.flat",
+        "source": "com.example.starsgallery.app-main-36:/mipmap/loupe.xml"
+    },
+    {
+        "merged": "com.example.starsgallery.app-debug-34:/mipmap_ic_share.xml.flat",
+        "source": "com.example.starsgallery.app-main-36:/mipmap/ic_share.xml"
+    },
+    {
+        "merged": "com.example.starsgallery.app-debug-34:/layout_star_item.xml.flat",
+        "source": "com.example.starsgallery.app-main-36:/layout/star_item.xml"
+    }
+]
