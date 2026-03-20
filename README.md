@@ -14,7 +14,7 @@ L’application a été développée dans le cadre du **LAB 7**.
 ##  Démo de l'application
 
 Ci-dessous, vous pouvez voir une vidéo de démonstration de l’application en action :
-la video se trouve ici: app/demo/fragment-video.mp4
+la video se trouve ici: app/demo/starvideo.mp4
 ##  Démo
 
-[la vidéo](https://github.com/wissalmokdad222/LAB-7---Galerie-de-Stars-RecyclerView-Animations-et-Filtrage/raw/main/app/demo/fragment-video.mp4)
+[la vidéo](https://github.com/wissalmokdad222/LAB-7---Galerie-de-Stars-RecyclerView-Animations-et-Filtrage/raw/main/app/demo/starvideo.mp4)
